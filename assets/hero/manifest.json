@@ -1,0 +1,10 @@
+{
+  "generator": "agent-console-v1",
+  "version": "0cc66ad7",
+  "assets": {
+    "desktopDark": "agent-console-0cc66ad7-dark.svg",
+    "desktopLight": "agent-console-0cc66ad7-light.svg",
+    "mobileDark": "agent-console-0cc66ad7-mobile-dark.svg",
+    "mobileLight": "agent-console-0cc66ad7-mobile-light.svg"
+  }
+}
