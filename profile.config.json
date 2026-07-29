@@ -39,48 +39,48 @@
   "projects": [
     {
       "name": "HOSPIRE",
-      "url": "https://github.com/irawan19/irawan19",
-      "homepage": "",
+      "url": "https://hospire.id",
+      "homepage": "https://hospire.id",
       "focus": "Hospitality LMS platform",
       "summary": "Enterprise Hospitality LMS built with Laravel 12, Vue 3, and Tailwind CSS. Combines program management, assessments, certifications, job placements, and payments with multi-language support and Docker deployment.",
       "heroLabel": "Hospitality LMS"
     },
     {
       "name": "ICP",
-      "url": "https://github.com/irawan19/irawan19",
-      "homepage": "",
+      "url": "https://icp.raindev.id",
+      "homepage": "https://icp.raindev.id",
       "focus": "Enterprise collaboration platform",
       "summary": "Unified collaboration platform with real-time chat, voice/video calls, task management, file drive, calendar, and document collaboration. Built with Go REST API, WebSocket, Next.js, and React Native.",
       "heroLabel": "Collaboration platform"
     },
     {
       "name": "Indotani POS",
-      "url": "https://github.com/irawan19/irawan19",
-      "homepage": "",
+      "url": "https://indotani.store",
+      "homepage": "https://indotani.store",
       "focus": "AI-powered POS & BI platform",
       "summary": "AI-powered POS platform for retail and agricultural businesses with multi-branch management, inventory monitoring, and financial dashboards. Built with Golang (Gin), Next.js, PostgreSQL, and Redis.",
       "heroLabel": "AI-powered POS"
     },
     {
       "name": "Asset Recovery",
-      "url": "https://github.com/irawan19/irawan19",
-      "homepage": "",
+      "url": "https://analisis-arssys.kejaksaan.go.id/dashboard",
+      "homepage": "https://analisis-arssys.kejaksaan.go.id/dashboard",
       "focus": "Asset management system",
       "summary": "Integrated asset management system with registration, distribution maps, maintenance tracking, valuation, QR code scanning, and RBAC. Built with Next.js, Golang (Gin), PostgreSQL, and Docker.",
       "heroLabel": "Asset management"
     },
     {
       "name": "Smart Kantin",
-      "url": "https://github.com/irawan19/irawan19",
-      "homepage": "http://smartkantin.com/",
+      "url": "https://smartkantin.com",
+      "homepage": "https://smartkantin.com",
       "focus": "Canteen ordering platform",
       "summary": "Multi-platform canteen management app for Telkom dormitories. Golang API, Laravel web, React Native mobile, PostgreSQL, Midtrans payments, Firebase notifications, and Alibaba Cloud ECS deployment.",
       "heroLabel": "Canteen platform"
     },
     {
       "name": "AdhyaksaPedia",
-      "url": "https://github.com/irawan19/irawan19",
-      "homepage": "",
+      "url": "https://adhyaksapedia.com",
+      "homepage": "https://adhyaksapedia.com",
       "focus": "Legal information platform",
       "summary": "Public legal information platform with news, polls, events, Q&A, community complaints, helpdesk, GIS mapping, and reporting. Built for the Attorney General's office with mobile support and scalable architecture.",
       "heroLabel": "Legal info platform"
@@ -110,7 +110,7 @@
     {
       "label": "GitHub",
       "value": "irawan19",
-      "url": "https://github.com/irawan19",
+      "url": "https://irawan19.github.io",
       "logo": "github",
       "color": "181717"
     },
