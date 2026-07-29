@@ -4,19 +4,19 @@
     "name": "Irawan Agung Nugroho",
     "username": "irawan19",
     "headline": "Senior Backend Engineer & Golang Specialist",
-    "affiliation": "PT Solusi Pembayaran Elektronik",
+    "affiliation": "Fourtrezz - Cybersecurity Services",
     "location": "Magelang, Indonesia",
-    "status": "Building scalable payment systems",
+    "status": "Building cloud-native backend systems",
     "about": [
-      "Senior Software Engineer with 15+ years building enterprise web, mobile, and cloud-native applications. I specialize in Golang backends, clean architecture, and distributed systems that handle real transaction volume.",
-      "I lead engineering teams through sprint planning, code review, and deployment management, turning business requirements into reliable, well-tested production systems."
+      "Adaptable software engineer with 15+ years of experience and a diverse background in IT and data analytics, now specializing in cloud-native application development. Skilled in Go, PHP, JavaScript, Docker, AWS, and Kubernetes.",
+      "I design and maintain end-to-end web applications with Golang backends, Next.js frontends, and CI/CD pipelines, while also leading engineering teams through sprint planning, code review, and deployment management."
     ]
   },
   "research": {
     "primary": "Backend Architecture",
     "direction": "Scalable distributed payment systems",
     "themes": "Microservices / reliability / clean arch",
-    "narrative": "My focus is designing backend systems that remain reliable under load: clean service boundaries, observable pipelines, and deployment workflows that teams can trust in production."
+    "narrative": "My focus is designing cloud-native backend systems that remain reliable under load: clean service boundaries, observable pipelines, and deployment workflows that teams can trust in production."
   },
   "focus": [
     {
@@ -38,44 +38,52 @@
   ],
   "projects": [
     {
-      "name": "ocr",
-      "url": "https://github.com/irawan19/ocr",
+      "name": "HOSPIRE",
+      "url": "https://github.com/irawan19/irawan19",
       "homepage": "",
-      "focus": "Golang OCR service",
-      "summary": "An OCR system built in Go that processes and extracts text from images, demonstrating practical Golang backend design and image processing pipelines.",
-      "heroLabel": "Golang OCR service"
+      "focus": "Hospitality LMS platform",
+      "summary": "Enterprise Hospitality LMS built with Laravel 12, Vue 3, and Tailwind CSS. Combines program management, assessments, certifications, job placements, and payments with multi-language support and Docker deployment.",
+      "heroLabel": "Hospitality LMS"
     },
     {
-      "name": "jude-engine",
-      "url": "https://github.com/irawan19/jude-engine",
+      "name": "ICP",
+      "url": "https://github.com/irawan19/irawan19",
       "homepage": "",
-      "focus": "Real-time WebSocket backend",
-      "summary": "A socket backend built on WebSocket for real-time multiplayer games, showcasing low-latency connection handling and event-driven architecture in TypeScript.",
-      "heroLabel": "Real-time game engine"
+      "focus": "Enterprise collaboration platform",
+      "summary": "Unified collaboration platform with real-time chat, voice/video calls, task management, file drive, calendar, and document collaboration. Built with Go REST API, WebSocket, Next.js, and React Native.",
+      "heroLabel": "Collaboration platform"
     },
     {
-      "name": "pos",
-      "url": "https://github.com/irawan19/pos",
+      "name": "Indotani POS",
+      "url": "https://github.com/irawan19/irawan19",
       "homepage": "",
-      "focus": "Point of Sales system",
-      "summary": "A full-featured Point of Sales application built with PHP, covering transactions, inventory, and reporting for retail operations.",
-      "heroLabel": "Enterprise POS system"
+      "focus": "AI-powered POS & BI platform",
+      "summary": "AI-powered POS platform for retail and agricultural businesses with multi-branch management, inventory monitoring, and financial dashboards. Built with Golang (Gin), Next.js, PostgreSQL, and Redis.",
+      "heroLabel": "AI-powered POS"
     },
     {
-      "name": "cafe",
-      "url": "https://github.com/irawan19/cafe",
+      "name": "Asset Recovery",
+      "url": "https://github.com/irawan19/irawan19",
       "homepage": "",
-      "focus": "Cafe management platform",
-      "summary": "A Laravel-based cafe management system with Blade templates, handling orders, menus, and operational workflows for food and beverage businesses.",
-      "heroLabel": "Laravel management app"
+      "focus": "Asset management system",
+      "summary": "Integrated asset management system with registration, distribution maps, maintenance tracking, valuation, QR code scanning, and RBAC. Built with Next.js, Golang (Gin), PostgreSQL, and Docker.",
+      "heroLabel": "Asset management"
     },
     {
-      "name": "perpustakaan",
-      "url": "https://github.com/irawan19/perpustakaan",
+      "name": "Smart Kantin",
+      "url": "https://github.com/irawan19/irawan19",
+      "homepage": "http://smartkantin.com/",
+      "focus": "Canteen ordering platform",
+      "summary": "Multi-platform canteen management app for Telkom dormitories. Golang API, Laravel web, React Native mobile, PostgreSQL, Midtrans payments, Firebase notifications, and Alibaba Cloud ECS deployment.",
+      "heroLabel": "Canteen platform"
+    },
+    {
+      "name": "AdhyaksaPedia",
+      "url": "https://github.com/irawan19/irawan19",
       "homepage": "",
-      "focus": "Library management system",
-      "summary": "A TypeScript-based library management application for cataloging, circulation, and member management, demonstrating modern frontend practices.",
-      "heroLabel": "Library system"
+      "focus": "Legal information platform",
+      "summary": "Public legal information platform with news, polls, events, Q&A, community complaints, helpdesk, GIS mapping, and reporting. Built for the Attorney General's office with mobile support and scalable architecture.",
+      "heroLabel": "Legal info platform"
     }
   ],
   "techStack": [
@@ -86,16 +94,16 @@
     "Next.js",
     "React",
     "React Native",
+    "Vue 3",
+    "TypeScript",
+    "JavaScript",
     "PostgreSQL",
     "MySQL",
     "MongoDB",
+    "Redis",
     "Docker",
     "Kubernetes",
     "AWS",
-    "Nginx",
-    "REST API",
-    "Microservices",
-    "Git",
     "CI/CD"
   ],
   "links": [
@@ -121,5 +129,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building reliable backend systems that scale with the business."
+  "footer": "Leveraging technology to solve complex problems and drive organizational growth."
 }
